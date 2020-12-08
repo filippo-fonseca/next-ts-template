@@ -57,4 +57,3 @@ Helpful resources I think will be useful for advancing what the template gives y
 <hr>
 
 Made with ❤️ by [**@FilippoFonseca**](https://www.twitter.com/FilippoFonseca).
-# infographics
