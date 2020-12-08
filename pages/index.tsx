@@ -36,20 +36,16 @@ export default function Home() {
         </p>
         <div style={{ height: "50px" }} />
         <div style={{ display: "flex" }}>
-          <kbd>
-            <img
-              width="400"
-              src="https://i.ibb.co/bB8nv7L/Election-Results-2.png"
-            />
-          </kbd>
+          <img
+            width="400"
+            src="https://i.ibb.co/bB8nv7L/Election-Results-2.png"
+          />
 
           <div style={{ width: "50px" }} />
-          <kbd>
-            <img
-              width="400"
-              src="https://i.ibb.co/TWcjPDw/Why-Trump-Lost-1.png"
-            />
-          </kbd>
+          <img
+            width="400"
+            src="https://i.ibb.co/TWcjPDw/Why-Trump-Lost-1.png"
+          />
         </div>
       </main>
 
