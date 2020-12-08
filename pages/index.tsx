@@ -13,7 +13,7 @@ export default function Home() {
         <h1 className={styles.title}>
           Two Infographics{" "}
           <a
-            href="https://github.com/filippo-fonseca/infographics"
+            href="https://github.com/filippo-fonseca/next-ts-template"
             target="_blank"
           >
             Summative
