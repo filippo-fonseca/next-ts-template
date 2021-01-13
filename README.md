@@ -6,13 +6,7 @@ A starter template for using [TypeScript](https://threejs.org) with [NextJS](htt
 
 ## Getting Started
 
-First, clone the repository to get started and `cd` into the folder (feel free to rename it to your liking according to the name of your project):
-
-```bash
-git clone git@github.com:filippo-fonseca/next-ts-template.git
-
-cd next-ts-template
-```
+First, click the `Use this template` button on this GitHub repository and clone your respective (newly created) repository to your local machine.
 
 Next, install all required dependencies by running:
 
